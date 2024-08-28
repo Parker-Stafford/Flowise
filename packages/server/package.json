@@ -54,7 +54,7 @@
     },
     "license": "SEE LICENSE IN LICENSE.md",
     "dependencies": {
-        "@arizeai/openinference-instrumentation-langchain": "^0.0.9",
+        "@arizeai/openinference-instrumentation-langchain": "^0.2.0",
         "@oclif/core": "^1.13.10",
         "@opentelemetry/exporter-trace-otlp-proto": "^0.52.1",
         "@opentelemetry/resources": "^1.25.1",
