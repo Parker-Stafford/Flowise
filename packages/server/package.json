@@ -110,10 +110,5 @@
         "ts-node": "^10.7.0",
         "tsc-watch": "^6.0.4",
         "typescript": "^5.4.5"
-    },
-    "pnpm": {
-        "overrides": {
-            "@langchain/core": "^0.1.0"
-        }
     }
 }
